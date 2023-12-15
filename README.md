@@ -6,11 +6,14 @@ Before starting project make sure the back end part is running and seed script i
 
 In the project directory run:
 
-# `npm install`
-
+```terminal
+npm install
+```
 and then
 
-# `npm start`
+```terminal
+npm start
+```
 
 Open [http://localhost:3000] to view it in your browser.
 
