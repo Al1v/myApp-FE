@@ -17,10 +17,10 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.  
 
-There are 2 existing roles: ADMIN and USER  
-USER can see his account details  
-ADMIN additionaly can see account details for all registered users  
+There are 2 existing roles: ADMIN and USER.     
+USER can see his account details.  
+ADMIN additionaly can see account details for all registered users.   
 
-To login as user use the following credentials: user@foo.com user.  
+To login as user use the following credentials: user@foo.com | user.  
 You can also register with your own credentials. Your default role would be USER.   
-To login as admin use the following credentials: admin@foo.com admin.  
+To login as admin use the following credentials: admin@foo.com | admin.  
